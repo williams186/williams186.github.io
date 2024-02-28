@@ -1,0 +1,45 @@
+/*Index*/
+
+body {background: darkgray;}
+
+h1 {padding-left:20px; padding-top:20px; padding-bottom:20px; padding-right:60px; margin-bottom:10px; background: url("../img/Banner-pizza.jpg"); color:white; opacity:0.5;}
+
+ul {background-color:rgb(56,56,56); padding: 10px 10px; text-align:right;}
+
+li {display:inline; padding: 10px 20px 10px 20px; margin: 0; text-align:center;}
+
+li:hover {background:red;}
+
+a {text-decoration:none; color:white;}
+
+aside {width:20%; float:right; margin-right:10px;}
+
+main {width:75%; border-right: solid black 2px; margin-left:40px;}
+
+section h2 {text-align:center; background:palegoldenrod; width:80%;}
+
+img {width:200px;}
+
+section div {float:left; width:20%; margin-right:10px;}
+
+section div h3 {color:green;}
+
+#otro {margin-top:400px;}
+
+footer {clear:both; background:rgb(56,56,56); text-align:center; margin-top:30px; padding:2%; color:white;}
+
+/*Pedidos*/
+
+fieldset {width:45%; display:inline;}
+.large {width:70%;}
+
+/*Horario*/
+
+table {border:1px solid black; width:50%; margin-left:10%;}
+
+td, th {border:1px solid black; padding:5px; text-align:center;}
+
+#h2 {text-align:center; background:palegoldenrod; width:80%;}
+
+
+ 

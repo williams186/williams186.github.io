@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta lang="es-ES">
+		<title>Página web formularios pizza</title>
+		<link rel="stylesheet" href="css/estilo1.css">
+	</head>
+	
+	<body>
+		<header>
+			<h1>Pizzas Artesanas</h1>
+		</header>
+		
+		<nav>
+			<ul>
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="productos.html">Productos</a></li>
+				<li><a href="horario.html">Horarios</a></li>
+				<li><a href="pedidos.html">Pedidos</a></li>
+			</ul>
+		</nav>
+		
+		<aside>
+			<h3>Novedades</h3>
+			<p>Pedidos a domicilio sin cargo</p>
+			<p>Nuevas instalaciones</p>
+		</aside>
+		
+		<main>
+			<section>
+				<h2>Datos de pedido</h2>
+				
+					<form action="datos.php" method="get">
+						<fieldset>
+							<legend>Datos cliente</legend>
+								<label>Nombre:</label>
+								<br>
+								<input type="text" class="large">
+								<br>
+								<label>Apellidos</label>
+								<br>
+								<input type="text" class="large">
+								<br>
+								<label>Teléfono</label>
+								<br>
+								<input type="tel" placeholder="##########">
+								<br>
+								<label>Dirección</label>
+								<br>
+								<input type="text" class="large">
+								<br>
+								<label>Correo</label>
+								<br>
+								<input type="email" class="large">
+						</fieldset>
+					
+						<fieldset>
+							<legend>Datos pedido</legend>
+							
+								<label>Entrega</label>
+									<br>
+									<input type="radio" name="entrega"><label>Domicilio</label>
+									<br>
+									<input type="radio" name="entrega"><label>Local</label>
+									<br>
+									
+								<label>Pizzas</label>
+									<br>
+									<input type="checkbox" name="barbacoa"><label>Barbacoa</label>
+									<br>
+									<input type="checkbox" name="peperoni"><label>Peperoni</label>
+									<br>
+									<input type="checkbox" name="4quesos"><label>4 quesos</label>
+									<br>
+									<input type="checkbox" name="hawaiana"><label>Hawaiana</label>
+									<br>
+									
+								<label>Entrega</label>
+									<br>
+									<select name="lista">
+										<option value="option1">Domicilio</option>
+										<option value="option2" selected>Local</option>
+									</select>
+						</fieldset>
+						<br>
+						<br>
+						<button type="submit">Enviar</button>
+						<button type="reset">Borrar</button>
+					</form>
+		</main>
+		<footer>Creado por Frank Williams Navarro Banes</footer>
+	</body>
+</html>
