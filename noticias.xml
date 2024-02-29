@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+
+	<channel>
+		<tittle>Noticias Williams</tittle>
+		<link>https://williams186.github.io/</link>
+		<description>Canal de noticias sobre videojuegos</description>
+		<languaje>es-Es</languaje>
+		<category>Videogames</category>
+		<copyright>2024 Williams. All rights reserved</copyright>
+		<lastBuildDate>Martes, 20 febrero de 20214</lastBuildDate>
+		<managingEditor>a23nabafr@iesgrancapitan.org</managingEditor>
+		<skipdays>
+			<day>saturday</day>
+			<day>sunday</day>
+		</skipdays>
+		<skipHours>
+			<hour>0</hour>
+			<hour>1</hour>
+			<hour>2</hour>
+			<hour>3</hour>
+			<hour>4</hour>
+			<hour>5</hour>
+		</skipHours>
+		<image>
+			<url>descarga.jpg</url>
+			<tittle>Mando</tittle>
+			<link>https://www.microsoft.com/es-es/d/mando-inalambrico-xbox/8xn59crbsqgz</link>
+		</image>
+
+		<item>
+			<title>Dragon's Dogma</title>
+			<link>https://www.hobbyconsolas.com/noticias/demo-dragons-dogma-2-podria-lanzarse-proximos-dias-1366044</link>
+			<description>Noticias sobre Dragons Dogma</description>
+			<autor>a23nabafr@iesgrancapitan.org</autor>
+			<enclosure>dragon.jpg</enclosure>
+			<pubdate>Martes, 20 febrero 2024</pubdate>
+			<source>https://www.hobbyconsolas.com/</source>
+		</item>
+		
+		<item>
+			<title>Skull and bones critica</title>
+			<link>https://es.ign.com/skull-and-bones-1/199728/news/los-jugadores-cargan-duramente-contra-skull-and-bones-en-metacritic</link>
+			<description>Opiniones de jugadores</description>
+			<autor>a23nabafr@iesgrancapitan.org</autor>
+			<enclosure>skull.jpg</enclosure>
+			<pubdate>Martes, 20 febrero 2024</pubdate>
+			<source>https://es.ign.com/</source>
+		</item>
+		
+		<item>
+			<title>For Honor</title>
+			<link>https://es.ign.com/for-honor/198729/news/for-honor-ha-presentado-por-sorpresa-a-un-nuevo-guerrero</link>
+			<description>Nuevo heroe disponible</description>
+			<autor>a23nabafr@iesgrancapitan.org</autor>
+			<enclosure>honor.jpg</enclosure>
+			<pubdate>Martes, 20 febrero 2024</pubdate>
+			<source>https://es.ign.com/</source>
+		</item>
+		
+		<item>
+			<title>Need for speed Unbound</title>
+			<link>https://es.ign.com/need-for-speed-unbound/199808/news/need-for-speed-unbound-recibe-por-sorpresa-un-segundo-ano-de-servicio-en-directo</link>
+			<description>Otro año para nfs unbound</description>
+			<autor>a23nabafr@iesgrancapitan.org</autor>
+			<enclosure>unbound.jpg</enclosure>
+			<pubdate>Martes, 20 febrero 2024</pubdate>
+			<source>https://es.ign.com/</source>
+		</item>
+	</channel>
+</rss>
