@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+
+	<channel>
+		<title>Noticias Williams</title>
+		<link>https://williams186.github.io/</link>
+		<description>Canal de noticias sobre videojuegos</description>
+		<language>es-Es</language>
+		<category>Videogames</category>
+		<copyright>2024 Williams. All rights reserved</copyright>
+		<lastBuildDate>Tue, 20 Feb 2024 17:30:00 GMT</lastBuildDate>
+		<managingEditor>a23nabafr@iesgrancapitan.org (Frank Williams)</managingEditor>
+		<skipDays>
+			<day>Saturday</day>
+			<day>Sunday</day>
+		</skipDays>
+		<skipHours>
+			<hour>0</hour>
+			<hour>1</hour>
+			<hour>2</hour>
+			<hour>3</hour>
+			<hour>4</hour>
+			<hour>5</hour>
+		</skipHours>
+		<image>
+			<url>https://www.microsoft.com/es-es/d/mando-inalambrico-xbox/8xn59crbsqgz</url>
+			<title>Noticias Williams</title>
+			<link>https://williams186.github.io/</link>
+		</image>
+
+		<item>
+			<title>Dragon's Dogma</title>
+			<link>https://www.hobbyconsolas.com/noticias/demo-dragons-dogma-2-podria-lanzarse-proximos-dias-1366044</link>
+			<description>Noticias sobre Dragons Dogma</description>
+			<author>a23nabafr@iesgrancapitan.org (Frank Williams)</author>
+			<enclosure length="4546371" type="image/jpg" url="https://www.3djuegospc.com/rpg/dragons-dogma-2-oficial-capcom-confirma-motor-grafico-este-rpg-accion-que-harias-bien-tener-radar"/>
+			<pubDate>Tue, 20 Feb 2024 17:30:00 GMT</pubDate>
+			<source url="https://www.hobbyconsolas.com/">hobbyconsolas.com</source>
+			<guid isPermaLink="false">item1</guid>
+		</item>
+		
+		<item>
+			<title>Skull and bones critica</title>
+			<link>https://es.ign.com/skull-and-bones-1/199728/news/los-jugadores-cargan-duramente-contra-skull-and-bones-en-metacritic</link>
+			<description>Opiniones de jugadores</description>
+			<author>a23nabafr@iesgrancapitan.org (Frank Williams)</author>
+			<enclosure length="4546371" type="image/jpg" url="https://www.tycsports.com/gaming/beta-abierta-de-skull-and-bones-cuando-es-hora-y-que-se-puede-jugar-id563055.html"/>
+			<pubDate>Tue, 20 Feb 2024 17:30:00 GMT</pubDate>
+			<source url="https://es.ign.com/">IGN.com</source>
+			<guid isPermaLink="false">item2</guid>
+		</item>
+		
+		<item>
+			<title>For Honor</title>
+			<link>https://es.ign.com/for-honor/198729/news/for-honor-ha-presentado-por-sorpresa-a-un-nuevo-guerrero</link>
+			<description>Nuevo heroe disponible</description>
+			<author>a23nabafr@iesgrancapitan.org (Frank Williams)</author>
+			<enclosure length="91029" type="image/jpg" url="https://es.humblebundle.com/store/agecheck/for-honor"/>
+			<pubDate>Tue, 20 Feb 2024 17:30:00 GMT</pubDate>
+			<source url="https://es.ign.com/">IGN.com</source>
+			<guid isPermaLink="false">item3</guid>
+		</item>
+		
+		<item>
+			<title>Need for speed Unbound</title>
+			<link>https://es.ign.com/need-for-speed-unbound/199808/news/need-for-speed-unbound-recibe-por-sorpresa-un-segundo-ano-de-servicio-en-directo</link>
+			<description>Otro año para nfs unbound</description>
+			<author>a23nabafr@iesgrancapitan.org (Frank Williams)</author>
+			<enclosure length="857086" type="image/jpg" url="https://www.mundodeportivo.com/alfabeta/ea/need-for-speed-unbound-persecuciones-trailer"/>
+			<pubDate>Tue, 20 Feb 2024 17:30:00 GMT</pubDate>
+			<source url="https://es.ign.com/">IGN.com</source>
+			<guid isPermaLink="false">item4</guid>
+		</item>
+	</channel>
+</rss>
